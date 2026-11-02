@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+irctc.sqlite
+irctc.sqlite-shm
+irctc.sqlite-wal
+dev-server.log
+dev-server-error.log
